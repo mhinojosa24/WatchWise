@@ -1,0 +1,108 @@
+# User-specific files
+*.xcuserstate
+*.xcscmblueprint
+*.xcworkspace
+
+# User-specific build settings
+xcuserdata/
+
+# Build products
+build/
+DerivedData/
+
+# Logs
+*.log
+
+# Temporary and swap files
+*.tmp
+*.swp
+*.swo
+*.dat
+*.pyc
+*.pyo
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Xcode package manager
+.swiftpm/
+.package.resolved
+
+# SPM Packages
+Packages/
+Package.resolved
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# SwiftUI Previews
+.swiftpm/xcode/Previews/
+
+# Xcode generated files
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# Xcode iOS DeviceSupport
+ios/DeviceSupport/
+
+# Xcode Archives
+*.xcarchive
+
+# Xcode IDE Indexes
+*.xcindex
+
+# Swift Package Manager
+.build/
+# Add this line if you want to avoid checking in source code from Swift Packages.
+# This may cause issues if you have dependencies with source code.
+# .swiftpm/
+
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.dart_tool/
+
+# Other
+.idea/
+.vscode/
